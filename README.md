@@ -3,7 +3,7 @@ This repository contains solutions to various HackerRank questions implemented i
 
 ## Structure
 The repository is organized as follows:
-- [x] **[Python](https://github.com/Abner-NM/HackerRank/tree/master/python)** - The python folder contains solutions implemented in Python, organized by data structures, algorithms, and other relevant categories.
+- **[Python](https://github.com/Abner-NM/HackerRank/tree/master/python)** - The python folder contains solutions implemented in Python, organized by data structures, algorithms, and other relevant categories.
 - **[SQL](https://github.com/Abner-NM/HackerRank/tree/master/sql)** - The sql folder contains solutions implemented in SQL, organized by basic, intermediate, and other relevant categories.
 - **[C](https://github.com/Abner-NM/HackerRank/tree/master/c)** - The c folder contains solutions implemented in C, organized by arrays, pointers, and other relevant categories.
 - **[C#](https://github.com/Abner-NM/HackerRank/tree/master/csharp)** - The csharp folder contains solutions implemented in C#, organized by strings, arrays, and other relevant categories.
