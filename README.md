@@ -15,7 +15,7 @@ You can clone this repository and use it as a reference or a starting point for 
 Contributions are welcome! If you would like to add your solutions to this repository or improve the existing solutions, feel free to fork the repository, make your changes, and submit a pull request. Please follow the contribution guidelines and provide meaningful commit messages.
 
 ## License
-This repository is open-source and available under the MIT License. Feel free to use, modify, and share the code according to the terms of the license.
+This repository is open-source and available under the **[MIT License](https://mit-license.org/)**. Feel free to use, modify, and share the code according to the terms of the license.
 
 ## Contact
 If you have any questions, suggestions, or feedback, please feel free to contact me via email or through the GitHub repository's issue tracker.
